@@ -1,0 +1,19 @@
+{
+  "name": "selenium-basics",
+  "version": "1.0.0",
+  "description": "Selenium – platform for automated browser testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aarongerig@github.com/aarongerig/selenium-basics.git"
+  },
+  "author": "Aaron Gerig",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aarongerig/selenium-basics/issues"
+  },
+  "homepage": "https://github.com/aarongerig/selenium-basics#readme"
+}
